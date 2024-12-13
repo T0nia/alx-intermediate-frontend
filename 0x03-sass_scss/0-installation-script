@@ -1,0 +1,6 @@
+Steps taken to install SASS:
+
+1.  Verified Node.js installation using the command:
+   node -v
+2. Installed SASS using the command: 
+npm install sass -v 3.7.4
